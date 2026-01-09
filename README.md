@@ -2,7 +2,7 @@
 
 A simple note-taking application built with Vue 3 and Quasar Framework.
 
-![Notes App Screenshot](imgs/demo.png)
+![Notes App Screenshot](public/imgs/demo.png)
 
 ## Features
 
