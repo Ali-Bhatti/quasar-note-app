@@ -2,8 +2,7 @@
 
 A simple note-taking application built with Vue 3 and Quasar Framework.
 
-![Notes App Screenshot](<img width="1493" height="817" alt="image" src="https://github.com/user-attachments/assets/bc59fac8-9d4e-42e7-a966-85cf12fb8ea7" />
-)
+![Notes App Screenshot](<img width="1493" height="817" alt="image" src="https://github.com/user-attachments/assets/2a658445-6e34-4571-8358-32fafd8e1bc2" />)
 
 ## Features
 
