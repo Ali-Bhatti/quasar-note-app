@@ -1,0 +1,2 @@
+// Boot files are used to run code before the root Vue app instance is instantiated.
+// Add any initialization code here.
